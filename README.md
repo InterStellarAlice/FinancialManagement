@@ -1,5 +1,5 @@
 # Obsidian Financial Management Plugin
-![charts]([images/icon.png](https://github.com/user-attachments/assets/045e8f43-6dca-4e51-923d-bd14b5474b42))
+![charts](https://github.com/user-attachments/assets/045e8f43-6dca-4e51-923d-bd14b5474b42)
 This is an Obsidian plugin for managing and visualizing financial data. 
 
 ## Features
