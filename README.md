@@ -1,5 +1,5 @@
 # Obsidian Financial Management Plugin
-
+![charts]([images/icon.png](https://github.com/user-attachments/assets/045e8f43-6dca-4e51-923d-bd14b5474b42))
 This is an Obsidian plugin for managing and visualizing financial data. 
 
 ## Features
@@ -10,7 +10,8 @@ This is an Obsidian plugin for managing and visualizing financial data.
 
 1. `cd PATH/TO/YOUR/VAULT/.obsidian/plugins`
 2. Clone this project to the plugins' folder.
-3. Enable the plugin in settings->community plugin->installed plugins.
+3. Install dependencies. `npm install`
+4. Enable the plugin in settings->community plugin->installed plugins.
 
 ## Usage
 
