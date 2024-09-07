@@ -5,7 +5,7 @@ This is an Obsidian plugin for managing and visualizing financial data.
 ## Features
 
 - Financial issues are classified with nonsense categories.
-
+![categories](https://github.com/user-attachments/assets/e9f03476-9108-4fad-a920-13f075f75288)
 ## Installation
 
 1. `cd PATH/TO/YOUR/VAULT/.obsidian/plugins`
