@@ -1,0 +1,17 @@
+{
+  "currency": "USD",
+  "expenses": {
+    "January": 1,
+    "February": 2,
+    "March": 3,
+    "April": 5,
+    "May": 7,
+    "June": 11,
+    "July": 13,
+    "August": 17,
+    "September": 19,
+    "October": 21,
+    "November": 23,
+    "December": 27
+  }
+}

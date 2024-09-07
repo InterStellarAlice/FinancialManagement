@@ -1,0 +1,8 @@
+{
+	"id": "FinancialManagement",
+	"name": "Financial Management",
+	"version": "1.0.0",
+	"description": "Managing and visualizing financial data. ",
+	"author": "InterStellarAlice",
+	"isDesktopOnly": false
+}
